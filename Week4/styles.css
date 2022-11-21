@@ -41,3 +41,9 @@ h3 ~ p {
 .aboutMe {
   color:rgb(20, 104, 20);
 }
+
+#footer {
+  text-align: center;
+  color:rgba(255, 0, 0, 0.658);
+  
+}
