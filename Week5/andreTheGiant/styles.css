@@ -37,7 +37,7 @@ div {
   width: auto;
 }
 
-@media {
+@media (max-width: 375px) {
   #bio > li {
     flex-direction: column;
   }
